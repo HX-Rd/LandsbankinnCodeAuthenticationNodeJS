@@ -1,0 +1,14 @@
+{
+  "name": "LandsbankinnCodeAuthentication",
+  "description": "Enables client-side applications to dance OAuth with Landsbankinn.",
+  "repository": "https://github.com/hx-rd/LandsbankinnCodeAuthenticationNodeJS",
+  "keywords": ["node", "landsbankinn", "oauth"],
+  "env": {
+    "OAUTH_CLIENT_ID": "",
+    "OAUTH_CLIENT_SECRET": "",
+    "OAUTH_HOST": "authsandbox.landsbankinn.is",
+    "OAUTH_PORT": "443",
+    "OAUTH_PATH": "/as/token.oauth2",
+    "OAUTH_METHOD": "POST"
+  }
+}

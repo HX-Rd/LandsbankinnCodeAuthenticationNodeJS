@@ -1,0 +1,8 @@
+{
+  "oauth_client_id": "LANDSBANKINN_APPLICATION_CLIENT_ID",
+  "oauth_client_secret": "LANDSBANKINN_APPLICATION_CLIENT_SECRET",
+  "oauth_host": "authsandbox.landsbankinn.is",
+  "oauth_port": 443,
+  "oauth_path": "/as/token.oauth2",
+  "oauth_method": "POST"
+}
